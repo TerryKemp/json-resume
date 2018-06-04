@@ -1,0 +1,27 @@
+{
+    "name": "Terry Kemp",
+    "website": "https://terrykemp.github.io/",
+    "linkedin": "www.linkedin.com/in/terry-kemp",
+    "github": "terrykemp",
+    "email": "terry.kemp14@gmail.com",
+    "resume": "https://terrykemp.github.io/aboutme",
+    "proficient-technologies": [
+        "html",
+        "css",
+        "javascript",
+        "react",
+        "angular",
+        "node.js",
+        "mean",
+        "sql",
+        "node",
+        "mongodb",
+        "ruby",
+        "ruby on-rails"
+    ],
+    "other-skills": [
+        "recruiting",
+        "leadershier",
+        "secret clearence"
+    ]
+}
